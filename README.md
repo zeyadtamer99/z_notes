@@ -1,16 +1,39 @@
-# znotes
+# ZNotes
 
-A new Flutter project.
+ZNotes is a simple and intuitive note-taking application built with Flutter. It allows users to create, edit, and delete notes, as well as mark them as favorites.
 
-## Getting Started
+## Table of Contents
 
-This project is a starting point for a Flutter application.
+- Features
+- Installation
+- Usage
+- Contributing
+- License
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Create, edit, and delete notes
+- Mark notes as favorites
+- Attach images to notes
+- Choose different colors for notes
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+To install ZNotes, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/username/ZNotes.git`
+2. Navigate to the project directory: `cd ZNotes`
+3. Install dependencies: `flutter pub get`
+4. Build the project: `flutter build apk --release`
+
+## Usage
+
+To use ZNotes, follow these steps:
+
+1. Run the app: `flutter run`
+2. Add a new note by clicking the "+" button.
+3. Edit a note by clicking on it.
+4. Delete a note by pressing on the bin icon.
+5. Add to favourites by pressing the star icon.
+6. Search for your desired note by pressing the search icon, and typing your search result.
+
